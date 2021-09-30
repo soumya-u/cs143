@@ -1,0 +1,1507 @@
+--- NobelPrize.del	2021-02-15 09:07:22.089768551 +0000
++++ prizes.del	2021-02-15 09:47:53.939926619 +0000
+@@ -1,603 +1,955 @@
+-2005,"Physics","2005-10-04",10000000
+-1993,"Chemistry","1993-10-13",6700000
+-1971,"Peace","1971-10-21",450000
+-2012,"Chemistry","2012-10-10",8000000
+-2006,"Physiology or Medicine","2006-10-02",10000000
+-2002,"Physics","2002-10-08",10000000
+-1976,"Literature",\N,681000
+-1929,"Literature",\N,172760
+-1989,"Physiology or Medicine","1989-10-09",3000000
+-1996,"Peace","1996-10-11",7400000
+-2014,"Physics","2014-10-07",8000000
+-2011,"Economic Sciences","2011-10-10",10000000
+-1935,"Physiology or Medicine",\N,159917
+-1966,"Chemistry",\N,300000
+-1990,"Literature",\N,4000000
+-1977,"Chemistry","1977-10-11",700000
+-1978,"Peace","1978-10-27",725000
+-1962,"Literature",\N,257220
+-2014,"Peace","2014-10-10",8000000
+-2005,"Economic Sciences","2005-10-10",10000000
+-1907,"Peace","1907-12-10",138796
+-2013,"Chemistry","2013-10-09",8000000
+-1964,"Chemistry",\N,273000
+-1920,"Physics",\N,134100
+-1993,"Literature",\N,6700000
+-1907,"Chemistry",\N,138796
+-2002,"Chemistry","2002-10-09",10000000
+-1961,"Literature",\N,250233
+-1932,"Chemistry",\N,171753
+-1963,"Chemistry",\N,265000
+-1909,"Physics",\N,139800
+-2010,"Physics","2010-10-05",10000000
+-1920,"Chemistry",\N,134100
+-1948,"Physics",\N,159773
+-1981,"Peace","1981-10-14",1000000
+-1917,"Literature","1917-11-08",133823
+-2020,"Chemistry","2020-10-07",10000000
+-2014,"Literature","2014-10-09",8000000
+-1937,"Literature",\N,158463
+-1918,"Physics",\N,138198
+-1911,"Peace","1911-12-10",140695
+-1994,"Economic Sciences","1994-10-11",7000000
+-1990,"Economic Sciences","1990-10-16",4000000
+-1944,"Physics",\N,121841
+-1925,"Physics",\N,118165
+-1929,"Physiology or Medicine",\N,172760
+-1949,"Literature",\N,156290
+ 2001,"Economic Sciences","2001-10-10",10000000
++1975,"Physics","1975-10-17",630000
++2004,"Chemistry","2004-10-06",10000000
++1982,"Chemistry","1982-10-18",1150000
++1979,"Physics","1979-10-15",800000
++2019,"Economic Sciences","2019-10-14",9000000
++2019,"Peace","2019-10-11",9000000
+ 2009,"Chemistry","2009-10-07",10000000
+-1988,"Economic Sciences","1988-10-18",2500000
++2011,"Physics","2011-10-04",10000000
++1939,"Chemistry",\N,148822
++1905,"Chemistry",\N,138089
++1928,"Chemistry",\N,156939
++1980,"Peace","1980-10-27",880000
++1999,"Chemistry","1999-10-12",7900000
++2010,"Chemistry","2010-10-06",10000000
++2019,"Chemistry","2019-10-09",9000000
++2007,"Peace","2007-10-12",10000000
++2000,"Chemistry","2000-10-10",9000000
++1963,"Physiology or Medicine",\N,265000
++2000,"Chemistry","2000-10-10",9000000
++1907,"Physics",\N,138796
++1957,"Literature",\N,208629
++1974,"Physiology or Medicine",\N,550000
++1921,"Physics",\N,121573
++2007,"Physics","2007-10-09",10000000
+ 1902,"Peace","1902-12-10",141847
+-1955,"Literature","1955-10-27",190214
+-1931,"Peace","1931-12-10",173206
+-1927,"Literature",\N,126501
+-1954,"Chemistry","1963-10-10",181647
+-1910,"Chemistry",\N,140703
+-1997,"Economic Sciences","1997-10-14",7500000
+-1967,"Physiology or Medicine",\N,320000
+-1994,"Literature",\N,7000000
+-1965,"Physics",\N,282000
+-1950,"Peace","1950-09-22",164304
+-1970,"Chemistry","1970-10-27",400000
+-2016,"Physics","2016-10-04",8000000
+-2003,"Physics","2003-10-07",10000000
+-1951,"Chemistry",\N,167612
+-1947,"Physics",\N,146115
+-1930,"Physiology or Medicine",\N,172947
+ 1960,"Peace","1961-10-23",225987
+-1970,"Physiology or Medicine","1970-10-15",400000
+ 1952,"Peace","1953-10-30",171135
+-1952,"Physiology or Medicine",\N,171135
+-1937,"Peace","1937-11-18",158463
+-1977,"Literature",\N,700000
+-2017,"Peace","2017-10-06",9000000
+-1919,"Literature",\N,133127
+-1906,"Literature",\N,138536
+-1913,"Physiology or Medicine",\N,143010
++1937,"Physiology or Medicine",\N,158463
++1910,"Physiology or Medicine",\N,140703
++1964,"Physics",\N,273000
++1970,"Literature","1970-10-08",400000
++2003,"Physics","2003-10-07",10000000
++1912,"Physiology or Medicine",\N,140476
++1982,"Peace","1982-10-13",1150000
++1969,"Physiology or Medicine",\N,375000
++1911,"Peace","1911-12-10",140695
++1994,"Physiology or Medicine","1994-10-10",7000000
++1966,"Physics",\N,300000
++1913,"Chemistry",\N,143010
++2013,"Literature","2013-10-10",8000000
++1979,"Physiology or Medicine","1979-10-11",800000
++1911,"Physiology or Medicine",\N,140695
++1907,"Physiology or Medicine",\N,138796
+ 1982,"Peace","1982-10-13",1150000
+-1921,"Peace","1921-12-10",121573
+-1932,"Literature",\N,171753
+-1927,"Chemistry",\N,126501
+-1972,"Physiology or Medicine",\N,480000
+-2008,"Physiology or Medicine","2008-10-06",10000000
+-1955,"Physiology or Medicine","1955-10-20",190214
+-1958,"Physics",\N,214559
+-1911,"Literature",\N,140695
+-2010,"Chemistry","2010-10-06",10000000
+-1923,"Chemistry",\N,114935
+-2008,"Economic Sciences","2008-10-13",10000000
+-1991,"Physiology or Medicine",\N,6000000
+-1978,"Physiology or Medicine",\N,725000
+-1969,"Chemistry",\N,375000
+-1902,"Physics",\N,141847
+-1969,"Literature",\N,375000
+-1983,"Chemistry","1983-10-19",1500000
+-1905,"Physiology or Medicine",\N,138089
+-1991,"Peace","1991-10-14",6000000
+-1914,"Physiology or Medicine","1915-10-29",146900
+-1938,"Peace","1938-11-17",155077
+ 2012,"Economic Sciences","2012-10-15",8000000
+-1995,"Literature",\N,7200000
+-1984,"Chemistry","1984-10-17",1650000
+-1919,"Physiology or Medicine",\N,133127
+-1971,"Physics",\N,450000
+-1933,"Physics",\N,170332
+-1973,"Physiology or Medicine",\N,510000
+-2019,"Peace","2019-10-11",9000000
+-1956,"Physics",\N,200123
+-1910,"Peace","1910-12-10",140703
+-1995,"Chemistry","1995-10-11",7200000
+-1973,"Peace","1973-10-17",510000
+-1953,"Peace","1953-10-30",175293
+-1975,"Literature","1975-10-23",630000
+-2008,"Chemistry","2008-10-08",10000000
+-1963,"Literature",\N,265000
+-1964,"Physics",\N,273000
+-1928,"Physics",\N,156939
+-1961,"Chemistry",\N,250233
+-1934,"Peace","1934-12-10",162608
+-1922,"Physiology or Medicine",\N,122483
+-1992,"Physiology or Medicine",\N,6500000
+-1954,"Physiology or Medicine",\N,181647
++1998,"Economic Sciences","1998-10-14",7600000
++1947,"Peace","1947-10-30",146115
++1977,"Peace","1977-10-10",700000
++1921,"Literature",\N,121573
++1956,"Physiology or Medicine",\N,200123
++2010,"Physics","2010-10-05",10000000
++1947,"Literature",\N,146115
++1965,"Physiology or Medicine",\N,282000
+ 2020,"Physics","2020-10-06",10000000
+-2011,"Physiology or Medicine",\N,10000000
+-1903,"Literature",\N,141358
+-2009,"Physics","2009-10-06",10000000
+-1971,"Chemistry",\N,450000
+-1982,"Economic Sciences","1982-10-20",1150000
+-1934,"Literature",\N,162608
+-2017,"Physics","2017-10-03",9000000
+-1908,"Physiology or Medicine",\N,139800
++1975,"Peace","1975-10-09",630000
++1963,"Physiology or Medicine",\N,265000
+ 1977,"Physiology or Medicine",\N,700000
+-1999,"Economic Sciences","1999-10-13",7900000
+-1905,"Peace","1905-12-10",138089
+-1910,"Physiology or Medicine",\N,140703
++2006,"Physiology or Medicine","2006-10-02",10000000
++2015,"Economic Sciences","2015-10-12",8000000
++2003,"Physics","2003-10-07",10000000
++1974,"Physics","1974-10-15",550000
++1978,"Peace","1978-10-27",725000
++1952,"Chemistry",\N,171135
++1922,"Physiology or Medicine",\N,122483
++2013,"Chemistry","2013-10-09",8000000
++1926,"Peace","1926-12-10",116960
++1948,"Chemistry",\N,159773
+ 1978,"Physics","1978-10-17",725000
+-1947,"Peace","1947-10-30",146115
+-1955,"Chemistry","1955-11-02",190214
++2018,"Physics","2018-10-02",9000000
++2015,"Physics","2015-10-06",8000000
++1927,"Physics",\N,126501
++1929,"Chemistry",\N,172760
++1934,"Peace","1934-12-10",162608
++1959,"Physiology or Medicine",\N,220678
++1981,"Physics","1981-10-19",1000000
++1945,"Chemistry",\N,121333
++2000,"Physiology or Medicine","2000-10-09",9000000
++1920,"Physiology or Medicine",\N,134100
++1909,"Peace","1909-12-10",139800
++1991,"Peace","1991-10-14",6000000
++2004,"Chemistry","2004-10-06",10000000
++2015,"Chemistry","2015-10-07",8000000
++2009,"Peace","2009-10-09",10000000
++1983,"Physiology or Medicine",\N,1500000
++2017,"Physics","2017-10-03",9000000
++2005,"Physiology or Medicine","2005-10-03",10000000
++2001,"Chemistry","2001-10-10",10000000
++1976,"Physiology or Medicine","1976-10-14",681000
++1980,"Physiology or Medicine","1980-10-10",880000
++1975,"Physics","1975-10-17",630000
++2016,"Economic Sciences","2016-10-10",8000000
++1982,"Physiology or Medicine","1982-10-11",1150000
++2016,"Chemistry","2016-10-05",8000000
++1947,"Physiology or Medicine",\N,146115
++1991,"Physiology or Medicine",\N,6000000
++1905,"Peace","1905-12-10",138089
++1977,"Economic Sciences","1977-10-14",700000
++1994,"Physics","1994-10-12",7000000
++1950,"Literature",\N,164304
++1976,"Peace","1977-10-10",681000
++1903,"Literature",\N,141358
++2016,"Literature","2016-10-13",8000000
++1958,"Literature",\N,214559
++1973,"Physics","1973-10-23",510000
++2012,"Chemistry","2012-10-10",8000000
++2011,"Physics","2011-10-04",10000000
++2011,"Physiology or Medicine",\N,10000000
++1984,"Chemistry","1984-10-17",1650000
++1976,"Physics","1976-10-18",681000
++1927,"Physics",\N,126501
++1906,"Physiology or Medicine",\N,138536
+ 1989,"Literature",\N,3000000
+-1978,"Chemistry","1978-10-17",725000
+-1917,"Peace","1917-12-10",133823
+-1939,"Physics",\N,148822
+-1979,"Physiology or Medicine","1979-10-11",800000
+-1951,"Literature",\N,167612
+-1997,"Peace","1997-10-10",7500000
+-2001,"Peace","2001-10-12",10000000
+-1926,"Literature",\N,116960
+-1927,"Physiology or Medicine",\N,126501
+-2018,"Economic Sciences",\N,9000000
+-2008,"Peace","2008-10-10",10000000
+-1980,"Chemistry","1980-10-14",880000
+-1990,"Physiology or Medicine",\N,4000000
++1931,"Chemistry",\N,173206
++1947,"Physiology or Medicine",\N,146115
++1936,"Physics",\N,159850
++1919,"Literature",\N,133127
++1935,"Peace","1936-11-24",159917
++2001,"Physics","2001-10-09",10000000
++1984,"Physics","1984-10-17",1650000
++1996,"Peace","1996-10-11",7400000
++1936,"Peace","1936-11-24",159850
++2009,"Physiology or Medicine",\N,10000000
++1950,"Physics",\N,164304
++1984,"Physiology or Medicine",\N,1650000
++1966,"Physiology or Medicine",\N,300000
++1920,"Physics",\N,134100
++1925,"Peace","1926-12-10",118165
++1917,"Physics","1918-11-12",133823
++1964,"Physics",\N,273000
++1987,"Chemistry","1987-10-14",2175000
++2009,"Physics","2009-10-06",10000000
++2020,"Physiology or Medicine","2020-10-05",10000000
++1928,"Physiology or Medicine",\N,156939
++1913,"Physiology or Medicine",\N,143010
++1957,"Physics",\N,208629
++1929,"Physiology or Medicine",\N,172760
+ 1972,"Chemistry",\N,480000
+-1974,"Physics","1974-10-15",550000
+-1939,"Chemistry",\N,148822
+-1915,"Chemistry","1915-11-11",149223
++1974,"Physiology or Medicine",\N,550000
++1921,"Peace","1921-12-10",121573
++1995,"Physiology or Medicine","1995-10-09",7200000
++2010,"Economic Sciences","2010-10-11",10000000
++2011,"Economic Sciences","2011-10-10",10000000
++1997,"Physics","1997-10-15",7500000
++1985,"Literature",\N,1800000
++1994,"Physics","1994-10-12",7000000
+ 1937,"Physics",\N,158463
+-1922,"Peace","1922-12-10",122483
+-1923,"Physiology or Medicine",\N,114935
+-1998,"Physiology or Medicine",\N,7600000
+-1977,"Economic Sciences","1977-10-14",700000
+-1904,"Literature",\N,140859
+-1983,"Peace","1983-10-05",1500000
++2003,"Economic Sciences","2003-10-08",10000000
++1945,"Peace","1945-11-12",121333
++1938,"Physiology or Medicine",\N,155077
++2006,"Physiology or Medicine","2006-10-02",10000000
++1980,"Literature",\N,880000
++1976,"Physiology or Medicine","1976-10-14",681000
++1961,"Peace","1961-10-23",250233
++2010,"Economic Sciences","2010-10-11",10000000
++2011,"Chemistry","2011-10-05",10000000
++1957,"Physiology or Medicine",\N,208629
++1998,"Physics","1998-10-13",7600000
++2002,"Economic Sciences","2002-10-09",10000000
++2000,"Economic Sciences","2000-10-11",9000000
++1978,"Physiology or Medicine",\N,725000
++1997,"Literature",\N,7500000
++1975,"Physiology or Medicine","1975-10-16",630000
++1981,"Physiology or Medicine","1981-10-09",1000000
++2004,"Physics","2004-10-05",10000000
++2016,"Physics","2016-10-04",8000000
++2012,"Physics","2012-10-09",8000000
++1996,"Physics","1996-10-09",7400000
++1998,"Peace","1998-10-16",7600000
++2018,"Peace","2018-10-05",9000000
++1971,"Physics",\N,450000
++1969,"Chemistry",\N,375000
++1992,"Literature",\N,6500000
++1984,"Peace","1984-10-05",1650000
+ 1956,"Physiology or Medicine",\N,200123
+-1991,"Chemistry",\N,6000000
+-1994,"Chemistry","1994-10-12",7000000
+-1903,"Physics",\N,141358
+-1904,"Physiology or Medicine",\N,140859
+-2020,"Literature","2020-10-08",10000000
++2019,"Physics","2019-10-08",9000000
++1960,"Physics","1960-11-03",225987
++1987,"Chemistry","1987-10-14",2175000
++2018,"Physics","2018-10-02",9000000
++2007,"Literature","2007-10-11",10000000
++1964,"Chemistry",\N,273000
++1996,"Physics","1996-10-09",7400000
++1993,"Economic Sciences","1993-10-12",6700000
++1986,"Chemistry","1986-10-15",2000000
++1990,"Physiology or Medicine",\N,4000000
+ 1952,"Physics",\N,171135
+-1949,"Physics",\N,156290
+-1921,"Chemistry",\N,121573
+-2009,"Peace","2009-10-09",10000000
+-1951,"Physiology or Medicine",\N,167612
+-1960,"Chemistry","1960-11-03",225987
+-1962,"Chemistry",\N,257220
+-1907,"Physics",\N,138796
+-1985,"Peace","1985-10-05",1800000
+-1923,"Physics",\N,114935
++1971,"Physiology or Medicine",\N,450000
++1932,"Physiology or Medicine",\N,171753
++1992,"Physiology or Medicine",\N,6500000
++2006,"Economic Sciences","2006-10-09",10000000
++1907,"Chemistry",\N,138796
++2014,"Physiology or Medicine",\N,8000000
++1943,"Physiology or Medicine",\N,123691
++1995,"Physiology or Medicine","1995-10-09",7200000
++1950,"Physiology or Medicine",\N,164304
++2004,"Economic Sciences","2004-10-11",10000000
++1958,"Physiology or Medicine",\N,214559
++1947,"Physics",\N,146115
++1992,"Physiology or Medicine",\N,6500000
++1951,"Chemistry",\N,167612
++1949,"Physiology or Medicine",\N,156290
++2010,"Chemistry","2010-10-06",10000000
++1974,"Peace","1974-10-09",550000
++2004,"Literature","2004-10-07",10000000
++1981,"Literature",\N,1000000
++1990,"Chemistry","1990-10-17",4000000
++1902,"Peace","1902-12-10",141847
++1986,"Peace","1986-10-14",2000000
++1912,"Peace","1913-12-10",140476
++2009,"Economic Sciences","2009-10-12",10000000
++2009,"Physiology or Medicine",\N,10000000
++2011,"Peace","2011-10-07",10000000
++1902,"Chemistry",\N,141847
++1901,"Physiology or Medicine",\N,150782
+ 1959,"Physics",\N,220678
++1946,"Peace","1946-11-14",121524
++2020,"Chemistry","2020-10-07",10000000
++1938,"Physics",\N,155077
++2014,"Chemistry","2014-10-08",8000000
+ 2001,"Physics","2001-10-09",10000000
++1995,"Physiology or Medicine","1995-10-09",7200000
++2000,"Physiology or Medicine","2000-10-09",9000000
++2007,"Economic Sciences","2007-10-15",10000000
+ 1931,"Literature",\N,173206
+-1909,"Chemistry",\N,139800
+-1956,"Literature",\N,200123
+-1975,"Physiology or Medicine","1975-10-16",630000
+-2001,"Chemistry","2001-10-10",10000000
+-1954,"Peace","1955-11-05",181647
+-1906,"Chemistry",\N,138536
+-1979,"Literature",\N,800000
+-2005,"Literature","2005-10-13",10000000
+-1903,"Physiology or Medicine",\N,141358
+-2007,"Peace","2007-10-12",10000000
+-2007,"Chemistry","2007-10-10",10000000
+-1969,"Physiology or Medicine",\N,375000
+-1982,"Physics","1982-10-18",1150000
+-2018,"Physics","2018-10-02",9000000
+-2009,"Economic Sciences","2009-10-12",10000000
+-1961,"Physics",\N,250233
+-1933,"Peace","1934-12-10",170332
+-1936,"Chemistry",\N,159850
+-1987,"Economic Sciences","1987-10-21",2175000
+-1993,"Physics","1993-10-13",6700000
+-2013,"Peace","2013-10-11",8000000
+-1944,"Physiology or Medicine",\N,121841
+-1974,"Chemistry","1974-10-15",550000
+-1981,"Literature",\N,1000000
+-1914,"Chemistry","1915-11-11",146900
++1954,"Literature",\N,181647
++1939,"Physics",\N,148822
++1908,"Chemistry",\N,139800
++1951,"Physics",\N,167612
++1907,"Peace","1907-12-10",138796
++1945,"Physiology or Medicine",\N,121333
++1973,"Chemistry","1973-10-23",510000
++1986,"Physics","1986-10-15",2000000
++1991,"Physiology or Medicine",\N,6000000
++1933,"Physics",\N,170332
++2019,"Economic Sciences","2019-10-14",9000000
++2013,"Economic Sciences","2013-10-14",8000000
++1936,"Literature",\N,159850
++1963,"Physics",\N,265000
++1975,"Literature","1975-10-23",630000
++2012,"Peace","2012-10-12",8000000
++1974,"Literature",\N,550000
++2016,"Physics","2016-10-04",8000000
++1995,"Chemistry","1995-10-11",7200000
++1993,"Peace","1993-10-15",6700000
++1952,"Physics",\N,171135
++1964,"Physiology or Medicine",\N,273000
++1909,"Physics",\N,139800
++1927,"Peace","1927-12-10",126501
++1998,"Physiology or Medicine",\N,7600000
++2004,"Economic Sciences","2004-10-11",10000000
++2018,"Chemistry","2018-10-03",9000000
++1962,"Physiology or Medicine",\N,257220
+ 1922,"Chemistry",\N,122483
++1985,"Economic Sciences","1985-10-15",1800000
++2013,"Physics","2013-10-08",8000000
++1965,"Physiology or Medicine",\N,282000
++1952,"Literature",\N,171135
++2008,"Physiology or Medicine","2008-10-06",10000000
++1929,"Peace","1930-12-10",172760
++2004,"Physics","2004-10-05",10000000
++1939,"Literature",\N,148822
++1935,"Chemistry",\N,159917
++1904,"Literature",\N,140859
++1901,"Peace","1901-12-10",150782
++1954,"Physiology or Medicine",\N,181647
++1923,"Physiology or Medicine",\N,114935
++1995,"Physics","1995-10-11",7200000
++1980,"Chemistry","1980-10-14",880000
++1921,"Chemistry",\N,121573
++1908,"Peace","1908-12-10",139800
++1922,"Peace","1922-12-10",122483
++1931,"Chemistry",\N,173206
++1974,"Economic Sciences","1974-10-09",550000
++1947,"Peace","1947-10-30",146115
++1953,"Physics",\N,175293
++1918,"Chemistry",\N,138198
++1953,"Physiology or Medicine",\N,175293
++1923,"Chemistry",\N,114935
++1982,"Literature",\N,1150000
++1908,"Physics",\N,139800
++1945,"Literature",\N,121333
++2000,"Literature","2000-10-12",9000000
++1992,"Economic Sciences","1992-10-13",6500000
++1973,"Chemistry","1973-10-23",510000
++1961,"Physiology or Medicine",\N,250233
++1979,"Chemistry","1979-10-15",800000
++2001,"Economic Sciences","2001-10-10",10000000
++1994,"Chemistry","1994-10-12",7000000
++1958,"Physiology or Medicine",\N,214559
++1925,"Literature",\N,118165
++1953,"Peace","1953-10-30",175293
++1980,"Physiology or Medicine","1980-10-10",880000
++1943,"Chemistry",\N,123691
++1974,"Physiology or Medicine",\N,550000
++2009,"Physics","2009-10-06",10000000
++2006,"Physics","2006-10-03",10000000
++1988,"Physiology or Medicine",\N,2500000
++1934,"Physiology or Medicine",\N,162608
++1982,"Economic Sciences","1982-10-20",1150000
++2018,"Chemistry","2018-10-03",9000000
++1937,"Physics",\N,158463
++1967,"Chemistry",\N,320000
++1934,"Physiology or Medicine",\N,162608
++1967,"Physiology or Medicine",\N,320000
++1992,"Physics","1992-10-14",6500000
++1984,"Physiology or Medicine",\N,1650000
++1958,"Peace","1958-11-10",214559
++1972,"Physiology or Medicine",\N,480000
++1983,"Economic Sciences","1983-10-17",1500000
++2018,"Physics","2018-10-02",9000000
++1999,"Physics","1999-10-12",7900000
++1986,"Physics","1986-10-15",2000000
++1939,"Physiology or Medicine",\N,148822
++2007,"Chemistry","2007-10-10",10000000
++1971,"Chemistry",\N,450000
++1912,"Literature",\N,140476
++1988,"Physiology or Medicine",\N,2500000
++1947,"Physiology or Medicine",\N,146115
++1963,"Literature",\N,265000
++1906,"Literature",\N,138536
++1963,"Chemistry",\N,265000
++1951,"Chemistry",\N,167612
++1979,"Physiology or Medicine","1979-10-11",800000
++2006,"Peace","2006-10-13",10000000
++1926,"Literature",\N,116960
++2019,"Physiology or Medicine","2019-10-07",9000000
++1909,"Physics",\N,139800
++1974,"Economic Sciences","1974-10-09",550000
++1999,"Physiology or Medicine","1999-10-11",7900000
+ 1999,"Literature",\N,7900000
+-1949,"Chemistry",\N,156290
+-2015,"Literature","2015-10-08",8000000
+-1906,"Peace","1906-12-10",138536
++1912,"Physics",\N,140476
++1925,"Physics",\N,118165
++1926,"Peace","1926-12-10",116960
++2004,"Physics","2004-10-05",10000000
++1968,"Physiology or Medicine",\N,350000
++2002,"Physiology or Medicine","2002-10-07",10000000
++1955,"Literature","1955-10-27",190214
++1978,"Physiology or Medicine",\N,725000
+ 1970,"Physics","1970-10-27",400000
+-1927,"Physics",\N,126501
+-2010,"Economic Sciences","2010-10-11",10000000
+-1966,"Literature",\N,300000
+-1977,"Peace","1977-10-10",700000
+-1907,"Literature",\N,138796
+-1924,"Physiology or Medicine",\N,116719
+-1936,"Physics",\N,159850
+-1990,"Chemistry","1990-10-17",4000000
++1967,"Physics",\N,320000
++1930,"Chemistry",\N,172947
++1989,"Physics","1989-10-12",3000000
++1953,"Physiology or Medicine",\N,175293
++1935,"Physiology or Medicine",\N,159917
++1929,"Chemistry",\N,172760
++2008,"Physiology or Medicine","2008-10-06",10000000
++1934,"Chemistry",\N,162608
++1989,"Physiology or Medicine","1989-10-09",3000000
++2005,"Literature","2005-10-13",10000000
++1990,"Economic Sciences","1990-10-16",4000000
++1974,"Literature",\N,550000
++1988,"Chemistry","1988-10-19",2500000
++2020,"Physiology or Medicine","2020-10-05",10000000
++1913,"Physics",\N,143010
+ 1972,"Literature",\N,480000
+-1967,"Chemistry",\N,320000
+-1928,"Literature",\N,156939
++1986,"Physics","1986-10-15",2000000
++1927,"Chemistry",\N,126501
++1902,"Physics",\N,141847
++1903,"Physics",\N,141358
++1927,"Literature",\N,126501
++1913,"Peace","1913-12-10",143010
++1906,"Chemistry",\N,138536
+ 1943,"Physiology or Medicine",\N,123691
+-1990,"Peace","1990-10-15",4000000
+-2006,"Physics","2006-10-03",10000000
+-1964,"Physiology or Medicine",\N,273000
+-1929,"Physics",\N,172760
+-1986,"Chemistry","1986-10-15",2000000
+-1944,"Peace","1945-11-12",121841
++1917,"Literature","1917-11-08",133823
++1901,"Peace","1901-12-10",150782
++1973,"Peace","1973-10-17",510000
++1983,"Chemistry","1983-10-19",1500000
++1990,"Physics","1990-10-17",4000000
++1905,"Literature",\N,138089
++1985,"Chemistry","1985-10-15",1800000
++1979,"Chemistry","1979-10-15",800000
++2000,"Physics","2000-10-10",9000000
++1944,"Physiology or Medicine",\N,121841
++1978,"Economic Sciences","1978-10-16",725000
+ 1946,"Literature",\N,121524
+-1968,"Chemistry",\N,350000
+ 1946,"Physiology or Medicine",\N,121524
+-1968,"Peace","1968-10-09",350000
+-2007,"Economic Sciences","2007-10-15",10000000
+-1996,"Physics","1996-10-09",7400000
+-1989,"Physics","1989-10-12",3000000
+-1996,"Chemistry","1996-10-09",7400000
+-1912,"Peace","1913-12-10",140476
+-1999,"Physiology or Medicine","1999-10-11",7900000
+-1968,"Physics",\N,350000
+-2019,"Literature","2019-10-10",9000000
+-1945,"Chemistry",\N,121333
+-1909,"Literature",\N,139800
+-1932,"Physics",\N,171753
+-1925,"Literature",\N,118165
+-1988,"Physics","1988-10-19",2500000
+-1995,"Physics","1995-10-11",7200000
+-1982,"Chemistry","1982-10-18",1150000
+-1989,"Chemistry","1989-10-12",3000000
+-1982,"Literature",\N,1150000
+-1976,"Chemistry","1976-10-18",681000
+-2017,"Literature","2017-10-05",9000000
+-1943,"Physics",\N,123691
+-2011,"Literature","2011-10-06",10000000
+-1987,"Physics","1987-10-14",2175000
++1953,"Chemistry",\N,175293
++2009,"Literature","2009-10-08",10000000
++2000,"Chemistry","2000-10-10",9000000
++1949,"Physics",\N,156290
++2014,"Physics","2014-10-07",8000000
++1921,"Peace","1921-12-10",121573
++1998,"Physics","1998-10-13",7600000
++1975,"Physiology or Medicine","1975-10-16",630000
++1955,"Physiology or Medicine","1955-10-20",190214
++1958,"Physics",\N,214559
++1958,"Physics",\N,214559
++1908,"Physiology or Medicine",\N,139800
++1977,"Chemistry","1977-10-11",700000
++2002,"Literature","2002-10-10",10000000
++1904,"Peace","1904-12-10",140859
++2007,"Peace","2007-10-12",10000000
++2005,"Peace","2005-10-07",10000000
++2017,"Peace","2017-10-06",9000000
++1997,"Peace","1997-10-10",7500000
++1963,"Peace","1963-10-10",265000
++1969,"Peace","1969-10-20",375000
++1985,"Peace","1985-10-05",1800000
++1935,"Chemistry",\N,159917
++1932,"Chemistry",\N,171753
++2004,"Chemistry","2004-10-06",10000000
++1978,"Literature",\N,725000
++2014,"Physics","2014-10-07",8000000
++1944,"Physics",\N,121841
+ 1933,"Literature",\N,170332
+-1986,"Physics","1986-10-15",2000000
+-1998,"Chemistry","1998-10-13",7600000
+-1960,"Literature","1960-10-26",225987
+-1931,"Chemistry",\N,173206
+-1918,"Chemistry",\N,138198
+-1913,"Peace","1913-12-10",143010
++1904,"Physiology or Medicine",\N,140859
++1973,"Physics","1973-10-23",510000
++1961,"Literature",\N,250233
++1987,"Physics","1987-10-14",2175000
++1963,"Physics",\N,265000
++2003,"Literature","2003-10-02",10000000
++1989,"Physiology or Medicine","1989-10-09",3000000
++2016,"Physics","2016-10-04",8000000
++2005,"Physiology or Medicine","2005-10-03",10000000
++1906,"Physics",\N,138536
++1922,"Literature",\N,122483
++2000,"Physics","2000-10-10",9000000
++1988,"Physics","1988-10-19",2500000
++2009,"Physiology or Medicine",\N,10000000
++1901,"Chemistry",\N,150782
++2017,"Chemistry","2017-10-04",9000000
++1965,"Physiology or Medicine",\N,282000
++1996,"Economic Sciences","1996-10-08",7400000
++1946,"Chemistry",\N,121524
++1935,"Physics",\N,159917
++1980,"Physics","1980-10-12",880000
++1977,"Economic Sciences","1977-10-14",700000
++2013,"Physiology or Medicine",\N,8000000
++1925,"Physics",\N,118165
++2000,"Economic Sciences","2000-10-11",9000000
+ 1986,"Economic Sciences","1986-10-16",2000000
+-1945,"Physiology or Medicine",\N,121333
++2018,"Physiology or Medicine",\N,9000000
+ 2019,"Physics","2019-10-08",9000000
+-1976,"Peace","1977-10-10",681000
+-1939,"Physiology or Medicine",\N,148822
+-1929,"Chemistry",\N,172760
+-1992,"Peace","1992-10-16",6500000
+-1998,"Physics","1998-10-13",7600000
+-2008,"Physics","2008-10-07",10000000
+-1964,"Peace","1964-10-14",273000
+-1930,"Peace","1930-12-10",172947
+-1931,"Physiology or Medicine",\N,173206
+-1920,"Peace","1920-12-10",134100
+-2005,"Chemistry","2005-10-05",10000000
+-1989,"Peace","1989-10-05",3000000
+-1923,"Literature",\N,114935
+-2003,"Economic Sciences","2003-10-08",10000000
+-1980,"Peace","1980-10-27",880000
+-1965,"Literature",\N,282000
+-1915,"Literature","1916-11-09",149223
+-1985,"Physiology or Medicine",\N,1800000
+-1930,"Literature",\N,172947
+-1948,"Literature",\N,159773
+-1950,"Chemistry",\N,164304
+-1979,"Physics","1979-10-15",800000
+-1938,"Chemistry",\N,155077
+-2019,"Economic Sciences","2019-10-14",9000000
++1975,"Physics","1975-10-17",630000
+ 1981,"Economic Sciences","1981-10-13",1000000
++1962,"Physiology or Medicine",\N,257220
++1969,"Economic Sciences",\N,375000
++1931,"Peace","1931-12-10",173206
++1959,"Chemistry",\N,220678
++1984,"Literature",\N,1650000
++1926,"Physics",\N,116960
++1980,"Physiology or Medicine","1980-10-10",880000
++2014,"Economic Sciences","2014-10-13",8000000
+ 2008,"Literature","2008-10-09",10000000
+-2012,"Literature","2012-10-11",8000000
+-1908,"Physics",\N,139800
+-1992,"Economic Sciences","1992-10-13",6500000
+-2000,"Physiology or Medicine","2000-10-09",9000000
++1987,"Chemistry","1987-10-14",2175000
++1964,"Literature",\N,273000
++2016,"Chemistry","2016-10-05",8000000
++2017,"Physiology or Medicine",\N,9000000
++2020,"Chemistry","2020-10-07",10000000
++1997,"Chemistry","1997-10-15",7500000
++1990,"Physics","1990-10-17",4000000
++1985,"Chemistry","1985-10-15",1800000
++2002,"Peace","2002-10-11",10000000
++2017,"Chemistry","2017-10-04",9000000
++1997,"Peace","1997-10-10",7500000
++1988,"Chemistry","1988-10-19",2500000
++1910,"Physics",\N,140703
++1926,"Physiology or Medicine",\N,116960
++1919,"Physics",\N,133127
++1944,"Literature",\N,121841
++2002,"Chemistry","2002-10-09",10000000
++2019,"Chemistry","2019-10-09",9000000
++1972,"Physics",\N,480000
++1994,"Economic Sciences","1994-10-11",7000000
++1962,"Chemistry",\N,257220
++2006,"Physics","2006-10-03",10000000
++1986,"Chemistry","1986-10-15",2000000
++1951,"Physics",\N,167612
++1975,"Chemistry","1975-10-17",630000
++2002,"Physiology or Medicine","2002-10-07",10000000
++1997,"Chemistry","1997-10-15",7500000
++1954,"Physiology or Medicine",\N,181647
++1994,"Economic Sciences","1994-10-11",7000000
++1932,"Literature",\N,171753
++1946,"Chemistry",\N,121524
++1977,"Physics","1977-10-11",700000
++1998,"Peace","1998-10-16",7600000
++2005,"Physics","2005-10-04",10000000
++1923,"Physiology or Medicine",\N,114935
++2014,"Physiology or Medicine",\N,8000000
++1998,"Chemistry","1998-10-13",7600000
++1972,"Economic Sciences","1972-10-25",480000
++1946,"Peace","1946-11-14",121524
++1982,"Physiology or Medicine","1982-10-11",1150000
++1962,"Literature",\N,257220
++1904,"Literature",\N,140859
++1996,"Peace","1996-10-11",7400000
+ 1998,"Literature",\N,7600000
+-1917,"Physics","1918-11-12",133823
+-2002,"Economic Sciences","2002-10-09",10000000
+-2012,"Physiology or Medicine",\N,8000000
+-1984,"Physics","1984-10-17",1650000
+-1984,"Economic Sciences","1984-10-18",1650000
+-2018,"Peace","2018-10-05",9000000
+-2011,"Physics","2011-10-04",10000000
+-1974,"Economic Sciences","1974-10-09",550000
+-1910,"Literature",\N,140703
+-1930,"Chemistry",\N,172947
+-1969,"Economic Sciences",\N,375000
+-1983,"Physics","1983-10-19",1500000
+-1961,"Peace","1961-10-23",250233
+-2006,"Literature","2006-10-12",10000000
+-1933,"Physiology or Medicine",\N,170332
+-1912,"Physics",\N,140476
+-1937,"Chemistry",\N,158463
+-1963,"Physiology or Medicine",\N,265000
+-1949,"Physiology or Medicine",\N,156290
+-1986,"Physiology or Medicine",\N,2000000
+-1975,"Peace","1975-10-09",630000
++1987,"Literature",\N,2175000
++1990,"Physiology or Medicine",\N,4000000
++2001,"Economic Sciences","2001-10-10",10000000
++1944,"Physiology or Medicine",\N,121841
++1993,"Physics","1993-10-13",6700000
++1985,"Physiology or Medicine",\N,1800000
++1995,"Peace","1995-10-13",7200000
+ 1958,"Physiology or Medicine",\N,214559
+-1952,"Literature",\N,171135
+-1954,"Literature",\N,181647
+-2010,"Literature","2010-10-07",10000000
++2016,"Peace","2016-10-07",8000000
++1956,"Literature",\N,200123
++2011,"Physiology or Medicine",\N,10000000
++1919,"Physiology or Medicine",\N,133127
++1965,"Physics",\N,282000
++1970,"Physiology or Medicine","1970-10-15",400000
++1927,"Physiology or Medicine",\N,126501
++1987,"Physics","1987-10-14",2175000
++1981,"Physics","1981-10-19",1000000
++2014,"Peace","2014-10-10",8000000
++1917,"Literature","1917-11-08",133823
++1930,"Physiology or Medicine",\N,172947
++1973,"Physiology or Medicine",\N,510000
++1963,"Chemistry",\N,265000
++1993,"Chemistry","1993-10-13",6700000
++2017,"Literature","2017-10-05",9000000
++1967,"Physiology or Medicine",\N,320000
++1981,"Chemistry","1981-10-19",1000000
++1982,"Physics","1982-10-18",1150000
++1972,"Economic Sciences","1972-10-25",480000
++1994,"Literature",\N,7000000
++2000,"Peace","2000-10-13",9000000
++2017,"Physics","2017-10-03",9000000
++1908,"Peace","1908-12-10",139800
++1985,"Physics","1985-10-16",1800000
++1920,"Literature",\N,134100
++2001,"Peace","2001-10-12",10000000
++2002,"Chemistry","2002-10-09",10000000
++1964,"Physiology or Medicine",\N,273000
++1973,"Physiology or Medicine",\N,510000
++2010,"Physics","2010-10-05",10000000
++1950,"Chemistry",\N,164304
++2002,"Chemistry","2002-10-09",10000000
++1968,"Chemistry",\N,350000
++2013,"Economic Sciences","2013-10-14",8000000
++1915,"Physics","1915-11-12",149223
++1980,"Economic Sciences","1980-10-15",880000
++1973,"Peace","1973-10-17",510000
++1963,"Peace","1963-10-10",265000
++1983,"Peace","1983-10-05",1500000
++2001,"Physiology or Medicine","2001-10-08",10000000
++1973,"Physics","1973-10-23",510000
++1920,"Peace","1920-12-10",134100
++1951,"Peace",\N,167612
++1988,"Physics","1988-10-19",2500000
++1972,"Physics",\N,480000
++2007,"Economic Sciences","2007-10-15",10000000
++1975,"Economic Sciences","1975-10-14",630000
++1939,"Chemistry",\N,148822
++1957,"Peace","1957-10-03",208629
++1962,"Physics",\N,257220
++2011,"Peace","2011-10-07",10000000
++2004,"Physiology or Medicine","2004-10-04",10000000
++1954,"Chemistry","1963-10-10",181647
+ 2010,"Peace","2010-10-08",10000000
+-1994,"Physiology or Medicine","1994-10-10",7000000
+-1970,"Peace","1970-10-21",400000
+-2015,"Physics","2015-10-06",8000000
+-1928,"Physiology or Medicine",\N,156939
+-1988,"Literature",\N,2500000
+-2006,"Peace","2006-10-13",10000000
++2012,"Economic Sciences","2012-10-15",8000000
++1949,"Peace","1949-10-12",156290
++1904,"Physics",\N,140859
++1957,"Chemistry",\N,208629
++1929,"Physics",\N,172760
++1998,"Physiology or Medicine",\N,7600000
++1970,"Physics","1970-10-27",400000
++1907,"Peace","1907-12-10",138796
++2020,"Literature","2020-10-08",10000000
++2008,"Physiology or Medicine","2008-10-06",10000000
++1927,"Peace","1927-12-10",126501
++1934,"Literature",\N,162608
++1968,"Physics",\N,350000
++1970,"Chemistry","1970-10-27",400000
++2019,"Chemistry","2019-10-09",9000000
++1976,"Peace","1977-10-10",681000
++2008,"Physics","2008-10-07",10000000
++2014,"Peace","2014-10-10",8000000
++1967,"Chemistry",\N,320000
+ 1924,"Physics",\N,116719
+-1926,"Physics",\N,116960
+-2004,"Economic Sciences","2004-10-11",10000000
+-1967,"Literature",\N,320000
+-1906,"Physiology or Medicine",\N,138536
+-1912,"Chemistry",\N,140476
+-1926,"Chemistry",\N,116960
+ 1963,"Physics",\N,265000
+-1959,"Chemistry",\N,220678
+-2000,"Peace","2000-10-13",9000000
++1911,"Chemistry",\N,140695
++1995,"Chemistry","1995-10-11",7200000
++2007,"Physiology or Medicine","2007-10-08",10000000
++2010,"Literature","2010-10-07",10000000
++1968,"Physiology or Medicine",\N,350000
++2008,"Chemistry","2008-10-08",10000000
++2013,"Chemistry","2013-10-09",8000000
++1995,"Physics","1995-10-11",7200000
++1964,"Peace","1964-10-14",273000
++1994,"Physiology or Medicine","1994-10-10",7000000
++1974,"Physics","1974-10-15",550000
+ 1999,"Physics","1999-10-12",7900000
+-1965,"Peace","1965-10-26",282000
+-1983,"Literature",\N,1500000
+-2011,"Peace","2011-10-07",10000000
+-1950,"Physiology or Medicine",\N,164304
+-1980,"Literature",\N,880000
+-1974,"Literature",\N,550000
+-1958,"Peace","1958-11-10",214559
++2008,"Peace","2008-10-10",10000000
++2002,"Physics","2002-10-08",10000000
++1988,"Economic Sciences","1988-10-18",2500000
++1911,"Literature",\N,140695
++1962,"Physiology or Medicine",\N,257220
++1954,"Physics",\N,181647
++1969,"Physiology or Medicine",\N,375000
++1962,"Chemistry",\N,257220
++1918,"Physics",\N,138198
++1951,"Physiology or Medicine",\N,167612
++1914,"Physics","1915-11-11",146900
++2014,"Physiology or Medicine",\N,8000000
++1999,"Peace","1999-10-15",7900000
++1961,"Chemistry",\N,250233
++1988,"Physics","1988-10-19",2500000
++1978,"Peace","1978-10-27",725000
++1990,"Economic Sciences","1990-10-16",4000000
++2020,"Physiology or Medicine","2020-10-05",10000000
++2019,"Economic Sciences","2019-10-14",9000000
++2013,"Chemistry","2013-10-09",8000000
++2017,"Physiology or Medicine",\N,9000000
++1985,"Physiology or Medicine",\N,1800000
++1993,"Chemistry","1993-10-13",6700000
++2017,"Physiology or Medicine",\N,9000000
++2019,"Physics","2019-10-08",9000000
++1967,"Literature",\N,320000
++1990,"Peace","1990-10-15",4000000
++1965,"Literature",\N,282000
++1976,"Economic Sciences","1976-10-14",681000
++2012,"Literature","2012-10-11",8000000
++2005,"Peace","2005-10-07",10000000
++1979,"Peace","1979-10-27",800000
++2006,"Peace","2006-10-13",10000000
++1969,"Physics",\N,375000
++1997,"Economic Sciences","1997-10-14",7500000
++2018,"Peace","2018-10-05",9000000
++1991,"Literature",\N,6000000
++1988,"Literature",\N,2500000
++1938,"Peace","1938-11-17",155077
++1930,"Peace","1930-12-10",172947
++2015,"Peace","2015-10-09",8000000
++1966,"Literature",\N,300000
++1993,"Peace","1993-10-15",6700000
++1931,"Peace","1931-12-10",173206
++1981,"Physics","1981-10-19",1000000
++1964,"Physics",\N,273000
++1922,"Physics",\N,122483
++1984,"Physiology or Medicine",\N,1650000
++1903,"Physiology or Medicine",\N,141358
++1973,"Physiology or Medicine",\N,510000
++1956,"Chemistry",\N,200123
++1970,"Peace","1970-10-21",400000
++1989,"Physics","1989-10-12",3000000
++1937,"Chemistry",\N,158463
++1990,"Literature",\N,4000000
++1969,"Chemistry",\N,375000
++1979,"Literature",\N,800000
++1981,"Peace","1981-10-14",1000000
++2018,"Literature","2019-10-10",9000000
++2009,"Economic Sciences","2009-10-12",10000000
++2016,"Economic Sciences","2016-10-10",8000000
++2007,"Physiology or Medicine","2007-10-08",10000000
++2013,"Peace","2013-10-11",8000000
++2006,"Literature","2006-10-12",10000000
++2008,"Chemistry","2008-10-08",10000000
++1987,"Peace","1987-10-13",2175000
++1950,"Chemistry",\N,164304
++1944,"Chemistry",\N,121841
++1936,"Physiology or Medicine",\N,159850
++1922,"Physiology or Medicine",\N,122483
++1943,"Physics",\N,123691
++1910,"Chemistry",\N,140703
++1931,"Physiology or Medicine",\N,173206
++1959,"Physics",\N,220678
++1928,"Physics",\N,156939
+ 1971,"Literature",\N,450000
+-1938,"Literature",\N,155077
+-1904,"Chemistry",\N,140859
+-1968,"Literature",\N,350000
+-1991,"Economic Sciences","1991-10-15",6000000
+-1947,"Physiology or Medicine",\N,146115
+-1998,"Peace","1998-10-16",7600000
+-1953,"Physics",\N,175293
+-1936,"Literature",\N,159850
+-2020,"Economic Sciences","2020-10-12",10000000
+-2016,"Chemistry","2016-10-05",8000000
+-1938,"Physiology or Medicine",\N,155077
+-1901,"Chemistry",\N,150782
++1951,"Literature",\N,167612
++1948,"Physics",\N,159773
++2014,"Literature","2014-10-09",8000000
++1973,"Literature",\N,510000
+ 1970,"Economic Sciences","1970-10-26",400000
+-1921,"Literature",\N,121573
++1933,"Physics",\N,170332
++1980,"Chemistry","1980-10-14",880000
++2003,"Physiology or Medicine","2003-10-06",10000000
++1997,"Chemistry","1997-10-15",7500000
++1908,"Physiology or Medicine",\N,139800
++2000,"Physiology or Medicine","2000-10-09",9000000
++1909,"Peace","1909-12-10",139800
++1910,"Literature",\N,140703
++1995,"Chemistry","1995-10-11",7200000
++1974,"Chemistry","1974-10-15",550000
++1937,"Chemistry",\N,158463
++2008,"Economic Sciences","2008-10-13",10000000
++2018,"Economic Sciences",\N,9000000
++2015,"Chemistry","2015-10-07",8000000
++1948,"Physiology or Medicine",\N,159773
++2020,"Economic Sciences","2020-10-12",10000000
++1912,"Chemistry",\N,140476
++1958,"Physics",\N,214559
++1938,"Literature",\N,155077
++1946,"Physics",\N,121524
++1910,"Peace","1910-12-10",140703
++2010,"Economic Sciences","2010-10-11",10000000
++2003,"Chemistry","2003-10-08",10000000
++1996,"Physiology or Medicine","1996-10-07",7400000
++1936,"Chemistry",\N,159850
++2007,"Physics","2007-10-09",10000000
++2019,"Literature","2019-10-10",9000000
++2013,"Physics","2013-10-08",8000000
++1960,"Physiology or Medicine","1960-10-20",225987
++1978,"Chemistry","1978-10-17",725000
++1966,"Physiology or Medicine",\N,300000
++1959,"Peace","1959-11-05",220678
++1950,"Physiology or Medicine",\N,164304
++1977,"Physics","1977-10-11",700000
++1905,"Physics",\N,138089
++1993,"Physiology or Medicine","1993-10-11",6700000
++1903,"Physics",\N,141358
++1991,"Physics","1991-10-16",6000000
++1902,"Physics",\N,141847
++1955,"Physics","1955-11-02",190214
++1995,"Peace","1995-10-13",7200000
++1978,"Physics","1978-10-17",725000
+ 1913,"Literature",\N,143010
+-1913,"Physics",\N,143010
++1969,"Economic Sciences",\N,375000
++1967,"Physiology or Medicine",\N,320000
++2017,"Physics","2017-10-03",9000000
++1950,"Peace","1950-09-22",164304
++2011,"Physiology or Medicine",\N,10000000
++1903,"Peace","1903-12-10",141358
++2013,"Physiology or Medicine",\N,8000000
++2002,"Physics","2002-10-08",10000000
++2020,"Physics","2020-10-06",10000000
++1994,"Economic Sciences","1994-10-11",7000000
++1975,"Physiology or Medicine","1975-10-16",630000
++1968,"Peace","1968-10-09",350000
++2002,"Physics","2002-10-08",10000000
++2004,"Physiology or Medicine","2004-10-04",10000000
++1996,"Chemistry","1996-10-09",7400000
++1990,"Physics","1990-10-17",4000000
++2010,"Chemistry","2010-10-06",10000000
++2017,"Economic Sciences","2017-10-09",9000000
++2017,"Chemistry","2017-10-04",9000000
++1993,"Physiology or Medicine","1993-10-11",6700000
++1938,"Chemistry",\N,155077
++1952,"Chemistry",\N,171135
++1965,"Physics",\N,282000
++1991,"Chemistry",\N,6000000
++2005,"Chemistry","2005-10-05",10000000
++1984,"Economic Sciences","1984-10-18",1650000
++1915,"Chemistry","1915-11-11",149223
++1925,"Chemistry",\N,118165
++1992,"Peace","1992-10-16",6500000
++1986,"Physiology or Medicine",\N,2000000
++1981,"Chemistry","1981-10-19",1000000
++1923,"Physics",\N,114935
++1998,"Physics","1998-10-13",7600000
++2020,"Economic Sciences","2020-10-12",10000000
++1965,"Chemistry",\N,282000
++1914,"Physiology or Medicine","1915-10-29",146900
++1997,"Economic Sciences","1997-10-14",7500000
++1996,"Physics","1996-10-09",7400000
++1937,"Peace","1937-11-18",158463
++1995,"Economic Sciences","1995-10-10",7200000
++1996,"Chemistry","1996-10-09",7400000
++2003,"Economic Sciences","2003-10-08",10000000
++1998,"Physiology or Medicine",\N,7600000
+ 2010,"Physiology or Medicine",\N,10000000
+-1945,"Peace","1945-11-12",121333
+-1996,"Physiology or Medicine","1996-10-07",7400000
++2005,"Chemistry","2005-10-05",10000000
++1961,"Physics",\N,250233
++1988,"Chemistry","1988-10-19",2500000
++2005,"Economic Sciences","2005-10-10",10000000
++2012,"Chemistry","2012-10-10",8000000
++2013,"Economic Sciences","2013-10-14",8000000
++1905,"Physiology or Medicine",\N,138089
++1987,"Economic Sciences","1987-10-21",2175000
++1999,"Economic Sciences","1999-10-13",7900000
++1966,"Chemistry",\N,300000
++1972,"Physics",\N,480000
++1993,"Economic Sciences","1993-10-12",6700000
++1968,"Physiology or Medicine",\N,350000
++1978,"Physics","1978-10-17",725000
++2003,"Chemistry","2003-10-08",10000000
++1972,"Physiology or Medicine",\N,480000
++2007,"Economic Sciences","2007-10-15",10000000
+ 2006,"Chemistry","2006-10-04",10000000
+-1901,"Literature",\N,150782
+-1948,"Physiology or Medicine",\N,159773
+-1987,"Chemistry","1987-10-14",2175000
+-1915,"Physics","1915-11-12",149223
+-1906,"Physics",\N,138536
+-1980,"Physiology or Medicine","1980-10-10",880000
+-1991,"Literature",\N,6000000
+-1987,"Physiology or Medicine",\N,2175000
+-1966,"Physics",\N,300000
+-1920,"Physiology or Medicine",\N,134100
+-2013,"Literature","2013-10-10",8000000
+-1908,"Peace","1908-12-10",139800
+-2017,"Chemistry","2017-10-04",9000000
+-1983,"Physiology or Medicine",\N,1500000
+-1964,"Literature",\N,273000
+-1962,"Physics",\N,257220
+-1997,"Literature",\N,7500000
+-1901,"Physics",\N,150782
+-1909,"Physiology or Medicine",\N,139800
+-1954,"Physics",\N,181647
+-1997,"Physics","1997-10-15",7500000
++1977,"Physiology or Medicine",\N,700000
++1937,"Literature",\N,158463
++2020,"Physics","2020-10-06",10000000
++1981,"Physiology or Medicine","1981-10-09",1000000
++2008,"Chemistry","2008-10-08",10000000
++1996,"Physiology or Medicine","1996-10-07",7400000
++1915,"Literature","1916-11-09",149223
++1967,"Chemistry",\N,320000
++1991,"Economic Sciences","1991-10-15",6000000
+ 1902,"Physiology or Medicine",\N,141847
+-1976,"Physiology or Medicine","1976-10-14",681000
+-1910,"Physics",\N,140703
+-2003,"Peace","2003-10-10",10000000
+-2018,"Physiology or Medicine",\N,9000000
+-1975,"Economic Sciences","1975-10-14",630000
++1977,"Physiology or Medicine",\N,700000
++2005,"Physics","2005-10-04",10000000
++1908,"Literature",\N,139800
++1961,"Physics",\N,250233
++1992,"Chemistry","1992-10-12",6500000
++1907,"Literature",\N,138796
++1993,"Physics","1993-10-13",6700000
++2001,"Chemistry","2001-10-10",10000000
++1960,"Literature","1960-10-26",225987
++1969,"Physiology or Medicine",\N,375000
++1959,"Literature",\N,220678
++1969,"Literature",\N,375000
++1976,"Physics","1976-10-18",681000
++1906,"Physiology or Medicine",\N,138536
+ 2015,"Physiology or Medicine",\N,8000000
+-1993,"Physiology or Medicine","1993-10-11",6700000
+-1937,"Physiology or Medicine",\N,158463
+-1945,"Physics",\N,121333
+-1907,"Physiology or Medicine",\N,138796
+-1957,"Literature",\N,208629
+-1987,"Literature",\N,2175000
+-1972,"Physics",\N,480000
+-1995,"Physiology or Medicine","1995-10-09",7200000
+-1909,"Peace","1909-12-10",139800
+-2001,"Literature","2001-10-11",10000000
+-1901,"Physiology or Medicine",\N,150782
+-1959,"Physiology or Medicine",\N,220678
++1976,"Literature",\N,681000
++2011,"Physics","2011-10-04",10000000
++1995,"Literature",\N,7200000
++1974,"Peace","1974-10-09",550000
++1909,"Literature",\N,139800
++1952,"Physiology or Medicine",\N,171135
+ 2012,"Physics","2012-10-09",8000000
+-1905,"Physics",\N,138089
+-1998,"Economic Sciences","1998-10-14",7600000
+-1912,"Physiology or Medicine",\N,140476
+-1901,"Peace","1901-12-10",150782
+-1986,"Literature",\N,2000000
+-1953,"Physiology or Medicine",\N,175293
+-1984,"Peace","1984-10-05",1650000
+-1935,"Peace","1936-11-24",159917
+-2005,"Peace","2005-10-07",10000000
+-1972,"Economic Sciences","1972-10-25",480000
+-1978,"Economic Sciences","1978-10-16",725000
+-1924,"Literature",\N,116719
+-1949,"Peace","1949-10-12",156290
+-1946,"Physics",\N,121524
++1959,"Physiology or Medicine",\N,220678
++1979,"Physics","1979-10-15",800000
++1994,"Peace","1994-10-14",7000000
++2012,"Physiology or Medicine",\N,8000000
++2003,"Peace","2003-10-10",10000000
++1966,"Literature",\N,300000
++2014,"Physics","2014-10-07",8000000
++1989,"Chemistry","1989-10-12",3000000
++1928,"Literature",\N,156939
++1971,"Economic Sciences",\N,450000
++1984,"Physics","1984-10-17",1650000
++1965,"Physics",\N,282000
++1930,"Literature",\N,172947
++1945,"Physiology or Medicine",\N,121333
++1979,"Economic Sciences","1979-10-16",800000
++1925,"Peace","1926-12-10",118165
++1970,"Physiology or Medicine","1970-10-15",400000
++1930,"Physics",\N,172947
++1932,"Physiology or Medicine",\N,171753
++1956,"Chemistry",\N,200123
++1960,"Physiology or Medicine","1960-10-20",225987
++1929,"Physiology or Medicine",\N,172760
+ 2018,"Chemistry","2018-10-03",9000000
+-1980,"Physics","1980-10-12",880000
+-1958,"Chemistry",\N,214559
+-1913,"Chemistry",\N,143010
+-1926,"Physiology or Medicine",\N,116960
+-2000,"Economic Sciences","2000-10-11",9000000
+-2014,"Economic Sciences","2014-10-13",8000000
+-1945,"Literature",\N,121333
+-1962,"Peace","1963-10-10",257220
+-2003,"Physiology or Medicine","2003-10-06",10000000
+-2014,"Physiology or Medicine",\N,8000000
+-2004,"Peace","2004-10-08",10000000
+-1959,"Peace","1959-11-05",220678
+-1911,"Physiology or Medicine",\N,140695
+-2015,"Chemistry","2015-10-07",8000000
+-1967,"Physics",\N,320000
+-2019,"Physiology or Medicine","2019-10-07",9000000
++1996,"Chemistry","1996-10-09",7400000
++1936,"Physiology or Medicine",\N,159850
++1945,"Physiology or Medicine",\N,121333
++2016,"Chemistry","2016-10-05",8000000
+ 1988,"Physiology or Medicine",\N,2500000
+-1974,"Physiology or Medicine",\N,550000
++2012,"Physiology or Medicine",\N,8000000
++1963,"Physiology or Medicine",\N,265000
++2007,"Physiology or Medicine","2007-10-08",10000000
++1977,"Physics","1977-10-11",700000
++1933,"Peace","1934-12-10",170332
+ 2001,"Physiology or Medicine","2001-10-08",10000000
+-2005,"Physiology or Medicine","2005-10-03",10000000
+-1948,"Chemistry",\N,159773
+-1946,"Peace","1946-11-14",121524
+-1981,"Physics","1981-10-19",1000000
+-1904,"Peace","1904-12-10",140859
+-1935,"Chemistry",\N,159917
+-1951,"Peace",\N,167612
+-2012,"Peace","2012-10-12",8000000
+-1976,"Physics","1976-10-18",681000
+-1935,"Physics",\N,159917
+-2003,"Literature","2003-10-02",10000000
+-1903,"Peace","1903-12-10",141358
+-1950,"Literature",\N,164304
+-2020,"Peace","2020-10-09",10000000
+-1928,"Chemistry",\N,156939
+-1975,"Physics","1975-10-17",630000
+-1970,"Literature","1970-10-08",400000
+-1947,"Literature",\N,146115
+-1961,"Physiology or Medicine",\N,250233
+-1922,"Literature",\N,122483
++2019,"Physiology or Medicine","2019-10-07",9000000
++2003,"Physiology or Medicine","2003-10-06",10000000
++1947,"Chemistry",\N,146115
++1904,"Chemistry",\N,140859
++1972,"Chemistry",\N,480000
++1997,"Physiology or Medicine","1997-10-06",7500000
++1986,"Physiology or Medicine",\N,2000000
+ 2014,"Chemistry","2014-10-08",8000000
+-1908,"Literature",\N,139800
+-1979,"Economic Sciences","1979-10-16",800000
+-1981,"Physiology or Medicine","1981-10-09",1000000
+-1993,"Peace","1993-10-15",6700000
+-1974,"Peace","1974-10-09",550000
+-1995,"Peace","1995-10-13",7200000
+-1988,"Chemistry","1988-10-19",2500000
+-2007,"Physiology or Medicine","2007-10-08",10000000
+-1911,"Physics",\N,140695
++1997,"Physics","1997-10-15",7500000
++1979,"Physics","1979-10-15",800000
++1983,"Physics","1983-10-19",1500000
++1901,"Literature",\N,150782
++1982,"Physiology or Medicine","1982-10-11",1150000
++1987,"Physiology or Medicine",\N,2175000
+ 1903,"Chemistry",\N,141358
+-1978,"Literature",\N,725000
+-1920,"Literature",\N,134100
+-1984,"Physiology or Medicine",\N,1650000
+-1957,"Physiology or Medicine",\N,208629
+-1950,"Physics",\N,164304
+-1980,"Economic Sciences","1980-10-15",880000
+-1973,"Literature",\N,510000
+-2016,"Literature","2016-10-13",8000000
+-1912,"Literature",\N,140476
+-1959,"Literature",\N,220678
+-1902,"Literature",\N,141847
+-2011,"Chemistry","2011-10-05",10000000
+-1932,"Physiology or Medicine",\N,171753
+-1971,"Economic Sciences",\N,450000
+-1905,"Chemistry",\N,138089
+-1936,"Peace","1936-11-24",159850
+-1925,"Chemistry",\N,118165
+-1994,"Peace","1994-10-14",7000000
+-1953,"Chemistry",\N,175293
+-1919,"Physics",\N,133127
+-1943,"Chemistry",\N,123691
+-1985,"Physics","1985-10-16",1800000
+-1985,"Literature",\N,1800000
+-1916,"Literature","1916-11-09",131793
+-1999,"Peace","1999-10-15",7900000
+-2004,"Physics","2004-10-05",10000000
+-1946,"Chemistry",\N,121524
+-1969,"Peace","1969-10-20",375000
+-1914,"Physics","1915-11-11",146900
+-2003,"Chemistry","2003-10-08",10000000
+-2015,"Peace","2015-10-09",8000000
+-1977,"Physics","1977-10-11",700000
+-1992,"Chemistry","1992-10-12",6500000
+-1979,"Chemistry","1979-10-15",800000
+-1992,"Literature",\N,6500000
+-2006,"Economic Sciences","2006-10-09",10000000
+-1952,"Chemistry",\N,171135
++2015,"Literature","2015-10-08",8000000
+ 2002,"Physiology or Medicine","2002-10-07",10000000
+-1987,"Peace","1987-10-13",2175000
++1948,"Literature",\N,159773
++1950,"Physiology or Medicine",\N,164304
++2015,"Physics","2015-10-06",8000000
++2018,"Physiology or Medicine",\N,9000000
++2011,"Peace","2011-10-07",10000000
++1989,"Peace","1989-10-05",3000000
++1926,"Chemistry",\N,116960
++1909,"Physiology or Medicine",\N,139800
++1902,"Literature",\N,141847
++2005,"Physics","2005-10-04",10000000
++1906,"Peace","1906-12-10",138536
++1914,"Chemistry","1915-11-11",146900
++1979,"Economic Sciences","1979-10-16",800000
++2009,"Chemistry","2009-10-07",10000000
++2005,"Economic Sciences","2005-10-10",10000000
++2013,"Physiology or Medicine",\N,8000000
++1933,"Physiology or Medicine",\N,170332
++1954,"Physiology or Medicine",\N,181647
++2011,"Economic Sciences","2011-10-10",10000000
++1929,"Literature",\N,172760
++1989,"Chemistry","1989-10-12",3000000
++2001,"Physiology or Medicine","2001-10-08",10000000
++1975,"Economic Sciences","1975-10-14",630000
++1911,"Peace","1911-12-10",140695
++2015,"Chemistry","2015-10-07",8000000
++2011,"Literature","2011-10-06",10000000
++1993,"Literature",\N,6700000
++1981,"Physiology or Medicine","1981-10-09",1000000
++2008,"Physics","2008-10-07",10000000
++1989,"Economic Sciences","1989-10-11",3000000
++1957,"Physics",\N,208629
++2015,"Physiology or Medicine",\N,8000000
++1970,"Physiology or Medicine","1970-10-15",400000
++2001,"Peace","2001-10-12",10000000
++1965,"Peace","1965-10-26",282000
+ 1988,"Peace","1988-09-29",2500000
+-2016,"Peace","2016-10-07",8000000
+-1958,"Literature",\N,214559
+-1969,"Physics",\N,375000
+-2002,"Literature","2002-10-10",10000000
++2001,"Literature","2001-10-11",10000000
++1980,"Physics","1980-10-12",880000
++2009,"Chemistry","2009-10-07",10000000
++1916,"Literature","1916-11-09",131793
++2002,"Economic Sciences","2002-10-09",10000000
++1977,"Literature",\N,700000
++1936,"Physics",\N,159850
++1912,"Chemistry",\N,140476
++1955,"Chemistry","1955-11-02",190214
++2003,"Physics","2003-10-07",10000000
+ 1975,"Chemistry","1975-10-17",630000
+-1911,"Chemistry",\N,140695
+-1996,"Literature",\N,7400000
+-1957,"Peace","1957-10-03",208629
+-1944,"Literature",\N,121841
+-1956,"Chemistry",\N,200123
+-1973,"Physics","1973-10-23",510000
+-1997,"Chemistry","1997-10-15",7500000
+-2016,"Economic Sciences","2016-10-10",8000000
+-1939,"Literature",\N,148822
+-1963,"Peace","1963-10-10",265000
+-1921,"Physics",\N,121573
+-2017,"Economic Sciences","2017-10-09",9000000
+-2000,"Physics","2000-10-10",9000000
+-1930,"Physics",\N,172947
+-2004,"Literature","2004-10-07",10000000
+-1926,"Peace","1926-12-10",116960
+-2009,"Literature","2009-10-08",10000000
+-1991,"Physics","1991-10-16",6000000
+-1981,"Chemistry","1981-10-19",1000000
+-1989,"Economic Sciences","1989-10-11",3000000
+-1927,"Peace","1927-12-10",126501
+-2019,"Chemistry","2019-10-09",9000000
+-1905,"Literature",\N,138089
+-2018,"Literature","2019-10-10",9000000
+-1982,"Physiology or Medicine","1982-10-11",1150000
+-1934,"Chemistry",\N,162608
+-2016,"Physiology or Medicine",\N,8000000
+-2017,"Physiology or Medicine",\N,9000000
+-2007,"Physics","2007-10-09",10000000
+-1960,"Physiology or Medicine","1960-10-20",225987
+-1953,"Literature",\N,175293
+-2015,"Economic Sciences","2015-10-12",8000000
+-1929,"Peace","1930-12-10",172760
+-1986,"Peace","1986-10-14",2000000
+-1965,"Physiology or Medicine",\N,282000
+-1996,"Economic Sciences","1996-10-08",7400000
+-1985,"Economic Sciences","1985-10-15",1800000
+-2000,"Chemistry","2000-10-10",9000000
+-2013,"Economic Sciences","2013-10-14",8000000
+-1984,"Literature",\N,1650000
+-1971,"Physiology or Medicine",\N,450000
+-1936,"Physiology or Medicine",\N,159850
+-1985,"Chemistry","1985-10-15",1800000
+-1990,"Physics","1990-10-17",4000000
+-1934,"Physiology or Medicine",\N,162608
+-2002,"Peace","2002-10-11",10000000
+-2013,"Physiology or Medicine",\N,8000000
+-1947,"Chemistry",\N,146115
+-1925,"Peace","1926-12-10",118165
+-2000,"Literature","2000-10-12",9000000
+-1962,"Physiology or Medicine",\N,257220
+-1994,"Physics","1994-10-12",7000000
+-1922,"Physics",\N,122483
+-2007,"Literature","2007-10-11",10000000
++1980,"Chemistry","1980-10-14",880000
++1956,"Physics",\N,200123
++1949,"Physiology or Medicine",\N,156290
++1998,"Chemistry","1998-10-13",7600000
++1954,"Physics",\N,181647
++1920,"Chemistry",\N,134100
++2004,"Peace","2004-10-08",10000000
+ 1973,"Economic Sciences","1973-10-18",510000
+-2004,"Chemistry","2004-10-06",10000000
+-1966,"Physiology or Medicine",\N,300000
+-1951,"Physics",\N,167612
+-1919,"Peace","1920-12-10",133127
++1946,"Chemistry",\N,121524
++1978,"Physiology or Medicine",\N,725000
++1956,"Physiology or Medicine",\N,200123
++1932,"Physics",\N,171753
++1901,"Physics",\N,150782
++1909,"Chemistry",\N,139800
++1911,"Physics",\N,140695
++1960,"Chemistry","1960-11-03",225987
++2009,"Physics","2009-10-06",10000000
++1924,"Physiology or Medicine",\N,116719
++1983,"Physics","1983-10-19",1500000
++1956,"Physics",\N,200123
++1915,"Physics","1915-11-12",149223
++1923,"Literature",\N,114935
++2015,"Physiology or Medicine",\N,8000000
++2018,"Economic Sciences",\N,9000000
++1997,"Physics","1997-10-15",7500000
++2014,"Chemistry","2014-10-08",8000000
++1949,"Chemistry",\N,156290
++1990,"Economic Sciences","1990-10-16",4000000
++1949,"Literature",\N,156290
++2019,"Physiology or Medicine","2019-10-07",9000000
++1983,"Literature",\N,1500000
++1972,"Chemistry",\N,480000
++2001,"Chemistry","2001-10-10",10000000
++1976,"Chemistry","1976-10-18",681000
++1934,"Physiology or Medicine",\N,162608
++1996,"Economic Sciences","1996-10-08",7400000
+ 1955,"Physics","1955-11-02",190214
+-2004,"Physiology or Medicine","2004-10-04",10000000
+-1979,"Peace","1979-10-27",800000
+-1993,"Economic Sciences","1993-10-12",6700000
+-1983,"Economic Sciences","1983-10-17",1500000
+-1965,"Chemistry",\N,282000
+-2013,"Physics","2013-10-08",8000000
+-1938,"Physics",\N,155077
+-1995,"Economic Sciences","1995-10-10",7200000
+-1957,"Physics",\N,208629
+-1902,"Chemistry",\N,141847
+-1968,"Physiology or Medicine",\N,350000
+-1944,"Chemistry",\N,121841
+-1999,"Chemistry","1999-10-12",7900000
+-1960,"Physics","1960-11-03",225987
+-1997,"Physiology or Medicine","1997-10-06",7500000
+-2020,"Physiology or Medicine","2020-10-05",10000000
+-1976,"Economic Sciences","1976-10-14",681000
+-1957,"Chemistry",\N,208629
+-2009,"Physiology or Medicine",\N,10000000
+-1904,"Physics",\N,140859
+-1973,"Chemistry","1973-10-23",510000
+-1908,"Chemistry",\N,139800
+-1992,"Physics","1992-10-14",6500000
++1971,"Peace","1971-10-21",450000
++1953,"Literature",\N,175293
++1996,"Literature",\N,7400000
++1924,"Literature",\N,116719
++1986,"Literature",\N,2000000
++2001,"Physics","2001-10-09",10000000
++1989,"Physics","1989-10-12",3000000
++1945,"Physics",\N,121333
++1919,"Peace","1920-12-10",133127
++2020,"Peace","2020-10-09",10000000
++1994,"Peace","1994-10-14",7000000
++1968,"Literature",\N,350000
++1994,"Peace","1994-10-14",7000000
++2008,"Physics","2008-10-07",10000000
++2016,"Physiology or Medicine",\N,8000000
++1986,"Chemistry","1986-10-15",2000000
++2005,"Chemistry","2005-10-05",10000000
++2000,"Physics","2000-10-10",9000000
